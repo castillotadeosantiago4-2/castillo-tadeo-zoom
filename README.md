@@ -10,8 +10,8 @@ Sistema de gestión de reuniones de Zoom integrado con Django que permite:
 - Panel de administración completo
 
 ## 👨‍🎓 Información del Alumno
-- **Nombre Completo:** Agustín Eduardo Valle Ortiz
-- **Matrícula:** 24311036
+- **Nombre Completo:** CASTILLO TADEO SANTIAGO
+- **Matrícula:** 24311003
 - **Carrera:** DSM
 - **Semestre:** 5to Cuatrimestre
 - **Materia:** Aplicaciones Web Orientada a Servicios
